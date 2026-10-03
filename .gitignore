@@ -1,0 +1,15 @@
+﻿venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
